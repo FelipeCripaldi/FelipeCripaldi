@@ -1,44 +1,28 @@
-<h2 align="left">Ola 👋! Menu nome é Felipe Cripaldi, sou estudante de Front-End com DevQuest.</h2>
+# FelipeCripaldi
+## Ola 👋!
+# Menu nome é Felipe Cripaldi, sou estudante de Front-End com DevQuest e a Dio.
 
-###
+## Faça parte da minha rede
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-u-cripaldi)
+[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/felipe.cripaldi)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipecripaldi/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeCripaldi)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipecripaldi.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=white)](felipecripaldi.github.io/portifolio/)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeCripaldi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=FelipeCripaldi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeCripaldi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Habilidades
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
 
-###
 
-<img align="right" height="150" src="https://i.ibb.co/K6cXFn3/Whats-App-Image-2024-02-15-at-14-48-34.jpg"  />
+## Git Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeCripaldi&theme=transparent&bg_color=000&border_color=0000&show_icons=true&icon_color=ffb000&title_color=FFF&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FelipeCripaldi&theme=vision-friendly-dark&hide_border=true&border_radius=0&locale=pt_BR)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeCripaldi&layout=compact&bg_color=000&border_color=000&title_color=fff&text_color=FFF)
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/felipecripaldi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/felipe.cripaldi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-u-cripaldi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="felipecripaldi.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+## <img width="25" height="25" src="https://img.icons8.com/ios/50/FFFFFF/huion.png" alt="huion"/> Meus Projetos
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeCripaldi&repo=portifolio&bg_color=000&border_color=000&show_icons=true&icon_color=ffb000&title_color=fff&text_color=FFF)](https://github.com/FelipeCripaldi/portifolio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeCripaldi&repo=dev-links&bg_color=000&border_color=000&show_icons=true&icon_color=ffb000&title_color=fff&text_color=FFF)](https://github.com/FelipeCripaldi/dev-links)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FelipeCripaldi&repo=gta-devemdobro&bg_color=000&border_color=000&show_icons=true&icon_color=ffb000&title_color=fff&text_color=FFF)](https://github.com/FelipeCripaldi/gta-devemdobro)
 
 ###
 
