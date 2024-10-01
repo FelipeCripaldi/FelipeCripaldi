@@ -1,6 +1,5 @@
-# FelipeCripaldi
-## Ola 👋!
-# Menu nome é Felipe Cripaldi, sou estudante de Front-End com DevQuest e a Dio.
+# Ola 👋!
+## Menu nome é Felipe Cripaldi, sou estudante de Front-End com DevQuest e a Dio.
 
 ## Faça parte da minha rede
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-u-cripaldi)
