@@ -3,7 +3,7 @@
 
 ## Faça parte da minha rede
 [![Perfil DIO](https://img.shields.io/badge/DIO.Perfil-000?style=for-the-badge&logo=todoist&logoColor=white)](https://www.dio.me/users/felipecripaldi_dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-u-cripaldi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/felipe-u-cripaldi)
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/felipe.cripaldi)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipecripaldi/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeCripaldi)
