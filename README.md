@@ -1,13 +1,14 @@
 # Ola 👋!
-## Menu nome é Felipe Cripaldi, sou estudante de Front-End com DevQuest e a Dio.
+## Meu nome é Felipe Cripaldi, sou estudante de Front-End com DevQuest e a Dio.
 
 ## Faça parte da minha rede
+[![Perfil DIO](https://img.shields.io/badge/DIO.Perfil-000?style=for-the-badge&logo=todoist&logoColor=white)]((https://www.dio.me/users/felipecripaldi_dev))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-u-cripaldi)
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/felipe.cripaldi)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipecripaldi/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeCripaldi)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipecripaldi.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=white)](felipecripaldi.github.io/portifolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=white)]([felipecripaldi.github.io/portifolio/](https://felipecripaldi.github.io/portifolio/))
 
 ## Habilidades
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
